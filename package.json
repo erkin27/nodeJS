@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erkin27/nodeJS/issues"
   },
-  "homepage": "https://github.com/erkin27/nodeJS#readme"
+  "homepage": "https://github.com/erkin27/nodeJS#readme",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  }
 }
