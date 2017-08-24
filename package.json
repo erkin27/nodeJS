@@ -18,5 +18,8 @@
   "homepage": "https://github.com/erkin27/nodeJS#readme",
   "dependencies": {
     "metasync": "^0.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0"
   }
 }
